@@ -17,7 +17,7 @@ Plugins coming soon → shape it your way.
 
 ## 🌟 Get Early Access
 👉 [Sign up here](https://kunobi.ninja)  
-👉 [⭐ Star Kunobi on GitHub](https://github.com/kunobi/kunobi)  
+👉 [⭐ Star Kunobi on GitHub](https://github.com/kunobi/kunobi-ninja)  
 
 ## 🤝 Join the Community
 - [LinkedIn](https://www.linkedin.com/company/kunobi)  

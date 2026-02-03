@@ -1,26 +1,16 @@
-# 🚀 Meet Kunobi
-**The missing link between Kubernetes & GitOps**  
+Native Kubernetes desktop tool. Tauri (Rust + React), not Electron. Manages clusters and GitOps (Flux, Argo) in one place.
 
-<img width="1280" alt="Kunobi banner" src="https://github.com/user-attachments/assets/2f6746c1-c49e-4e7c-8c44-677931d17439" />
+<p align="center">
+  <img width="800" alt="Kunobi - Home" src="screenshots/main.webp" />
+</p>
 
-## The Problem
-❌ ArgoCD & Flux → great GitOps, but:
-   - Flux: no UI
-   - Argo: UI struggles at scale  
+<p align="center">
+  <img width="800" alt="Kunobi - Pod browser" src="screenshots/pods.webp" />
+</p>
 
-❌ Lens & K9s → great cluster managers, but:
-   - Don’t speak GitOps
-
-## The Kunobi Solution
-✅ Kunobi = Clusters + GitOps (Flux & Argo) in one extensible tool.  
-Plugins coming soon → shape it your way.
-
-## 🌟 Get Early Access
-👉 [Sign up here](https://kunobi.ninja)  
-👉 [⭐ Star Kunobi on GitHub](https://github.com/kunobi-ninja/kunobi)  
-
-## 🤝 Join the Community
-- [LinkedIn](https://www.linkedin.com/company/kunobi)  
-- [Twitter / X](https://x.com/_kunobi_)  
+- [Download](https://kunobi.ninja/download)
+- [Website](https://kunobi.ninja)
+- [Discussions](https://github.com/kunobi-ninja/kunobi/discussions)
+- [Twitter / X](https://x.com/_kunobi_)
 - [Reddit](https://www.reddit.com/r/kunobi/)
-
+- [LinkedIn](https://www.linkedin.com/company/kunobi)

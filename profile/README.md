@@ -1,26 +1,49 @@
-# 🚀 Meet Kunobi
-**The missing link between Kubernetes & GitOps**  
+  ---
+  # Kunobi
 
-<img width="1280" alt="Kunobi banner" src="https://github.com/user-attachments/assets/2f6746c1-c49e-4e7c-8c44-677931d17439" />
+  <p align="center">
+    <img width="1280" alt="Kunobi banner"
+  src="https://github.com/user-attachments/assets/2f6746c1-c49e-4e7c-8c44-677931d17439" />
+  </p>
 
-## The Problem
-❌ ArgoCD & Flux → great GitOps, but:
-   - Flux: no UI
-   - Argo: UI struggles at scale  
+  A native Kubernetes workspace built with Tauri (Rust + React). Not Electron.
 
-❌ Lens & K9s → great cluster managers, but:
-   - Don’t speak GitOps
+  Clusters, GitOps (Flux, Argo), logs, troubleshooting, all in one place. 
 
-## The Kunobi Solution
-✅ Kunobi = Clusters + GitOps (Flux & Argo) in one extensible tool.  
-Plugins coming soon → shape it your way.
+  No browser, no context switching, no login walls.
 
-## 🌟 Get Early Access
-👉 [Sign up here](https://kunobi.ninja)  
-👉 [⭐ Star Kunobi on GitHub](https://github.com/kunobi-ninja/kunobi)  
+  Desktop, airgapped, with AI?, only-human. You decide
 
-## 🤝 Join the Community
-- [LinkedIn](https://www.linkedin.com/company/kunobi)  
-- [Twitter / X](https://x.com/_kunobi_)  
-- [Reddit](https://www.reddit.com/r/kunobi/)
 
+  <p align="center">
+    <img width="800" alt="Kunobi - Home" src="screenshots/main.webp" />
+  </p>
+
+  <p align="center">
+    <img width="800" alt="Kunobi - Pod browser" src="screenshots/pods.webp" />
+  </p>
+
+  ## Why
+
+  Debugging a failing deployment shouldn't mean jumping between kubectl, a browser dashboard, Grafana, and
+  three terminal windows. We built Kunobi because we needed a single tool that starts instantly, connects
+  to all our clusters, and lets us fix things instead of staring at graphs.
+
+  ## What it does
+
+  Manage multiple clusters from one window. See what's deployed, detect drift, inspect resources, tail
+  logs, track Helm histories. Flux and Argo states are first-class, not an afterthought.
+
+  Plugins coming soon, shape it your way.
+
+  ## Get it
+
+  - [Download](https://kunobi.ninja/download)
+  - [Website](https://kunobi.ninja)
+
+  ## Community
+
+  - [Discussions](https://github.com/kunobi-ninja/kunobi/discussions)
+  - [Twitter / X](https://x.com/_kunobi_)
+  - [Reddit](https://www.reddit.com/r/kunobi/)
+  - [LinkedIn](https://www.linkedin.com/company/kunobi)

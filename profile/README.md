@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="1280" alt="Kunobi banner" src="https://github.com/user-attachments/assets/2f6746c1-c49e-4e7c-8c44-677931d17439" />
+</p>
+
 Native Kubernetes desktop tool. Tauri (Rust + React), not Electron. Manages clusters and GitOps (Flux, Argo) in one place.
 
 <p align="center">
